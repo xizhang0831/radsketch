@@ -15,7 +15,7 @@ A fantastic visualization tool I find is ECharts which is developed by Baidu dat
 
 In this case, I use categorical variable year as the x axis and numeric variable employment share as the y axis. I combine bar, line and pie charts to explore the data from three different perspectives of view.
 
-You can click[MyPlot](https://github.com/xizhang0831/radsketch_/blob/master/demo.html) to see the visualization result. On the lower right corner, you can use the toolbox to switch between line chart, bar chart and stacked bar chart. 
+You can click[MyPlot](http://xizhang0831.github.io/demo.html) to see the visualization result. On the lower right corner, you can use the toolbox to switch between line chart, bar chart and stacked bar chart. 
 
 ### Part of the code for drawing the plot
 ![pcode](https://raw.githubusercontent.com/xizhang0831/radsketch_/master/pcode.png)
